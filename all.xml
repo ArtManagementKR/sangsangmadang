@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 02:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,28 +107,28 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/3c00c41e-5005-4094-b23c-338f8e636a0d" length="0" type="image//feah/temp/2022/202204/3c00c41e-5005-4094-b23c-338f8e636a0d"/>
         </item>
         <item>
-            <title><![CDATA[읽고 싶어 미치는 로맨스 소설 쓰기 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1740</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1740</guid>
-            <pubDate>Sat, 09 Apr 2022 05:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+            <title><![CDATA[소장하고 싶은 책표지 디자인 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1751</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1751</guid>
+            <pubDate>Fri, 22 Apr 2022 04:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
 			                                
 			                            
 										
-										<h4>읽고 싶어 미치는 로맨스 소설 쓰기</h4>
+										<h4>소장하고 싶은 책표지 디자인</h4>
 										<p class="detail">
-											<span>제리안</span>
-											<span>5기</span>
+											<span>진다솜</span>
+											<span>2기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2022.04.09~2022.05.18</dd>
+												<dd>2022.04.22~2022.06.01</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2022.05.21~2022.07.09<br>
+													2022.06.04~2022.07.02<br>
 													(매주 토, 
 													
 														14:00~16:00 
@@ -137,7 +137,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/77a52e6e-ff7d-40ed-ba80-287653834760" length="0" type="image//feah/temp/2022/202204/77a52e6e-ff7d-40ed-ba80-287653834760"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/1de98081-fb3b-4d2a-9e7f-44c7b4f910c5" length="0" type="image//feah/temp/2022/202204/1de98081-fb3b-4d2a-9e7f-44c7b4f910c5"/>
         </item>
         <item>
             <title><![CDATA[그림으로 글쓰기 (상상마당 ─ 아카데미)]]></title>
@@ -198,6 +198,39 @@
 													( 토, 
 													
 														14:00~16:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[읽고 싶어 미치는 로맨스 소설 쓰기 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1740</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1740</guid>
+            <pubDate>Sat, 09 Apr 2022 05:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>읽고 싶어 미치는 로맨스 소설 쓰기</h4>
+										<p class="detail">
+											<span>제리안</span>
+											<span>5기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.04.09~2022.05.18</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.05.21~2022.07.09<br>
+													(매주 토, 
+													
+														14:00~16:00 
 													
 													 )
 												</dd>
@@ -635,39 +668,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[사진가의 독립출판: 출판기획 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1723</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1723</guid>
-            <pubDate>Mon, 04 Apr 2022 09:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>사진가의 독립출판: 출판기획</h4>
-										<p class="detail">
-											<span>김정인</span>
-											<span>16기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.04.04~2022.05.10</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.05.12~2022.06.02<br>
-													(매주 목, 
-													
-														19:30~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[시즌 2 강의 목록 (5월-8월) (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1720</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1720</guid>
@@ -734,6 +734,39 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/9e51dbdf-2945-4e32-8b1d-3d5671993a59" length="0" type="image//feah/temp/2022/202204/9e51dbdf-2945-4e32-8b1d-3d5671993a59"/>
         </item>
         <item>
+            <title><![CDATA[소장하고 싶은 책표지 디자인 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1751</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1751</guid>
+            <pubDate>Fri, 22 Apr 2022 04:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>소장하고 싶은 책표지 디자인</h4>
+										<p class="detail">
+											<span>진다솜</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.04.22~2022.06.01</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.06.04~2022.07.02<br>
+													(매주 토, 
+													
+														14:00~16:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/1de98081-fb3b-4d2a-9e7f-44c7b4f910c5" length="0" type="image//feah/temp/2022/202204/1de98081-fb3b-4d2a-9e7f-44c7b4f910c5"/>
+        </item>
+        <item>
             <title><![CDATA[그림으로 글쓰기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1746</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1746</guid>
@@ -797,7 +830,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/a1561a03-f59f-4025-b8dc-9c20c344c65b" length="0" type="image//feah/temp/2022/202204/a1561a03-f59f-4025-b8dc-9c20c344c65b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[읽고 싶어 미치는 로맨스 소설 쓰기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
@@ -1287,39 +1320,6 @@
 													(매주 목, 
 													
 														19:30~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[MEET 클래식프린트 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1726</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1726</guid>
-            <pubDate>Tue, 05 Apr 2022 09:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>MEET 클래식프린트</h4>
-										<p class="detail">
-											<span>김다혜</span>
-											<span>21기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.04.05~2022.05.10</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.05.12~2022.06.16<br>
-													(매주 목, 
-													
-														19:00~21:30 
 													
 													 )
 												</dd>
