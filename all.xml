@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 06:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -569,7 +569,7 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 나만의 괴물 만들기 (상상마당 ─ 아카데미)]]></title>
+            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1806</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1806</guid>
             <pubDate>Fri, 12 Aug 2022 14:23:22 GMT</pubDate>
@@ -577,7 +577,7 @@
 			                                
 			                            
 										
-										<h4>[1DAY] 뜻밖의 니들펠트 : 나만의 괴물 만들기</h4>
+										<h4>[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기</h4>
 										<p class="detail">
 											<span>괴물은몬스터</span>
 											<span>3기</span>
@@ -586,6 +586,39 @@
 											<dl class="lr_list1">
 												<dt>접수</dt>
 												<dd>2022.08.12~2022.08.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.09.02~2022.09.02<br>
+													( 금, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1817</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1817</guid>
+            <pubDate>Fri, 19 Aug 2022 06:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기</h4>
+										<p class="detail">
+											<span>괴물은몬스터</span>
+											<span>4기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.08.19~2022.08.31</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
@@ -627,39 +660,6 @@
 													( 수, 
 													
 														14:00~19:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[볼로냐 그림책 워크숍 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1782</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1782</guid>
-            <pubDate>Sat, 09 Jul 2022 13:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인재육성</span>
-			                                
-			                            
-										
-										<h4>볼로냐 그림책 워크숍</h4>
-										<p class="detail">
-											<span>김동성 김성미 김수정 손서란 송미경 오승현 이유정 임애리 최현경 </span>
-											<span>12기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.07.09~2022.08.17</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.08.30~2023.03.23<br>
-													(매주 목, 
-													
-														14:00~17:00 
 													
 													 )
 												</dd>
@@ -1229,7 +1229,7 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 나만의 괴물 만들기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1806</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1806</guid>
             <pubDate>Fri, 12 Aug 2022 14:23:22 GMT</pubDate>
@@ -1237,7 +1237,7 @@
 			                                
 			                            
 										
-										<h4>[1DAY] 뜻밖의 니들펠트 : 나만의 괴물 만들기</h4>
+										<h4>[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기</h4>
 										<p class="detail">
 											<span>괴물은몬스터</span>
 											<span>3기</span>
@@ -1246,6 +1246,39 @@
 											<dl class="lr_list1">
 												<dt>접수</dt>
 												<dd>2022.08.12~2022.08.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.09.02~2022.09.02<br>
+													( 금, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1817</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1817</guid>
+            <pubDate>Fri, 19 Aug 2022 06:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기</h4>
+										<p class="detail">
+											<span>괴물은몬스터</span>
+											<span>4기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.08.19~2022.08.31</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
@@ -1287,39 +1320,6 @@
 													(매주 목, 
 													
 														14:00~17:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[1DAY] 뜻밖의 식물세밀화 : 과일 초상화 그리기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1797</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1797</guid>
-            <pubDate>Sat, 06 Aug 2022 02:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
-			                                
-			                            
-										
-										<h4>[1DAY] 뜻밖의 식물세밀화 : 과일 초상화 그리기</h4>
-										<p class="detail">
-											<span>조현진</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.06~2022.08.25</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.08.27~2022.08.27<br>
-													( 토, 
-													
-														10:00~13:00 
 													
 													 )
 												</dd>
