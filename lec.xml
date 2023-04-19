@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 07:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,6 +139,39 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/ca902e9f-2345-468f-b859-987d8b6a8706" length="0" type="image//feah/temp/2022/202208/ca902e9f-2345-468f-b859-987d8b6a8706"/>
+        </item>
+        <item>
+            <title><![CDATA[[1DAY] 작가 노트 쓰는 법]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1928</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1928</guid>
+            <pubDate>Wed, 19 Apr 2023 09:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 작가 노트 쓰는 법</h4>
+										<p class="detail">
+											<span>조숙현</span>
+											<span>9기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.04.19~2023.05.07</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.05.09~2023.05.09<br>
+													( 화, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[My own blue (시아노타입 원데이 클래스)]]></title>
@@ -628,39 +661,6 @@
 													( 토,일, 
 													
 														14:00~17:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[시로스카이의 Lo-Fi 작업실]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1899</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1899</guid>
-            <pubDate>Tue, 14 Mar 2023 06:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>시로스카이의 Lo-Fi 작업실</h4>
-										<p class="detail">
-											<span>시로스카이(Shirosky)</span>
-											<span>14기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.15~2023.04.11</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.04.11~2023.05.30<br>
-													(매주 화, 
-													
-														19:30~22:00 
 													
 													 )
 												</dd>
